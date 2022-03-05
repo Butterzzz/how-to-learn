@@ -143,6 +143,7 @@
 .section-title_theme_dark {
   color: #fff;
   margin-bottom: 20px;
+  z-index: 2;
 }
 
 .section-subtitle {
@@ -156,6 +157,7 @@
 
 .section-subtitle_theme_dark {
   color: #fff;
+  z-index: 2;
 }
 
 .table {
